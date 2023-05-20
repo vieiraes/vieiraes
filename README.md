@@ -13,9 +13,5 @@ Hello and welcome to my personal code compendium
   <img src="https://invidget.switchblade.xyz/xY4NuPBA" align="right">
 </a>
 
-<p align="center">
-![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=vieiraes&show_icons=true)
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vieiraes&theme=blue-green)
-</p>
 
 - [💼 LinkedIn](https://linkedin.com/in/brunno-vieira)
