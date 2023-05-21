@@ -4,7 +4,9 @@ Hello and welcome to my personal code compendium
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff">
    <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff">
 </p>
-🔴 I do live coding streams on [Twitch](https://twitch.tv/lasbsonlive)
+🔴 I do live coding streams on Twitch https://www.twitch.tv/labsonlive
+
+
 
 ## ☕ Keep in touch:
 
