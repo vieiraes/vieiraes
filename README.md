@@ -21,18 +21,10 @@ Hello and welcome to my personal code compendium
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vieiraes&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117" />
 </div>
 
-## 💻 Sistema operacional:
+## 💻 OS:
 <a href="https://pop.system76.com/" target="_blank"><img src="https://img.shields.io/badge/pop-os?style=for-the-badge&logo=system76&logoColor=white" target="_blank"></a>
 
 ## ☕ Keep in touch:
-
-
-<a href="https://discord.gg/xY4NuPBA">
-  <img src="https://invidget.switchblade.xyz/xY4NuPBA" align="right">
-</a>
-
-
-
 
 
 <a href="https://linkedin.com/in/brunno-vieira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
